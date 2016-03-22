@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The song ya
-datePublished: '2016-03-22T18:39:33.895Z'
-dateModified: '2016-03-22T18:39:29.222Z'
+description: "The song Ya Mado was one of the best dance songs of 2014. Watch the video by clicking here.\_"
+datePublished: '2016-03-22T18:42:25.458Z'
+dateModified: '2016-03-22T18:41:36.643Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-the-song-ya.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-the-song-ya.md
-published: true
 url: the-song-ya/index.html
 _type: Article
 
